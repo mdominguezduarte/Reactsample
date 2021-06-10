@@ -1,2 +1,2 @@
-# Reactsample
-A very sample blog using React framewoek
+# React sample
+A very sample blog using React framework, Node, HTML and CSS.
